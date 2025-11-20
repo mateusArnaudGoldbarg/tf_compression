@@ -3,39 +3,40 @@
 
 ## Prune Technique
 ### Prune 1 ✅
-![Prune_1](imagens/p1.jpeg)
+![Prune_1](images/p1.jpeg)
 
 ### Prune 2 ✅
-![Prune_2](imagens/p2.jpeg)
+![Prune_2](images/p2.jpeg)
 
 ### Prune 3 ✅
-![Prune_3](imagens/p3.jpeg)
+![Prune_3](images/p3.jpeg)
 
 ## Quantize Technique
 ### Quantize 1 ✅
-![Quantize_1](imagens/q1.jpeg)
+![Quantize_1](images/q1.jpeg)
 
 ### Quantize 2 ✅
-![Quantize_2](imagens/q2.jpeg)
+![Quantize_2](images/q2.jpeg)
 
 ### Quantize 3 ✅
-![Quantize_3](imagens/q3.jpeg)
+![Quantize_3](images/q3.jpeg)
 
 ## Pruning Followed By Quantization Technique
 ### Pruning Followed By Quantization 1 ✅
-![Pruning Followed By Quantization_1](imagens/pq1.jpeg)
+![Pruning Followed By Quantization_1](images/pq1.jpeg)
 
 ### Pruning Followed By Quantization 2 ✅
-![Pruning Followed By Quantization_2](imagens/pq2.jpeg)
+![Pruning Followed By Quantization_2](images/pq2.jpeg)
 
 ### Pruning Followed By Quantization 3 ✅
-![Pruning Followed By Quantization_3](imagens/pq3.jpeg)
+![Pruning Followed By Quantization_3](images/pq3.jpeg)
 
 ## Quantization Followed By Prune Technique
 ### Quantization Followed By Prune 1 ❌
-![Quantization Followed By Prune_1](imagens/qp1.jpeg)
+![Quantization Followed By Prune_1](images/qp1.jpeg)
 
 ## Quantization Followed By Prune Technique
 ### Quantization Followed By Prune 2 ❌
-![Quantization Followed By Prune_2](imagens/qp2.jpeg)
+![Quantization Followed By Prune_2](images/qp2.jpeg)
+
 
